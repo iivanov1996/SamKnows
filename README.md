@@ -30,7 +30,7 @@ Also, the program will print out the cause of the error. This is done for helpin
 
 ## CURL library
 
-Download the latest source from the Git server and build the source code:
+Download the latest source from the Git server and build the source code using the provided instructions on the repository itself:
 
     git clone https://github.com/curl/curl.git
     
